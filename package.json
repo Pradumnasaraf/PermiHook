@@ -19,7 +19,7 @@
     "express": "^5.2.1",
     "nodemon": "^3.1.14",
     "permitio": "^2.7.6",
-    "ioredis": "^5.11.1"
+    "ioredis": "^6.0.0"
   },
   "repository": {
     "type": "git",
