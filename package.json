@@ -15,7 +15,7 @@
   },
   "homepage": "https://github.com/Pradumnasaraf/permit-github-webhook#readme",
   "dependencies": {
-    "dotenv": "^17.4.2",
+    "dotenv": "^18.0.1",
     "express": "^5.2.1",
     "nodemon": "^3.1.14",
     "permitio": "^2.7.6",
